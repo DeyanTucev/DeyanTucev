@@ -2,8 +2,8 @@
 - 👀 I’m interested in womans
 - 🌱 I’m currently learning Programation
 - 💞️ I’m looking to collaborate on fun projects 
-- 📫 How to reach me talk to me
-- 😄 Pronouns: He/him
+- 📫 How to reach me : talk to me
+- 😄 Pronouns: He/him/bulldozer méchanique
 - ⚡ Fun fact: I'm stupid
 
 <!---
