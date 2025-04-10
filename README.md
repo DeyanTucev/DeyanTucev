@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Programation
 - 💞️ I’m looking to collaborate on fun projects 
 - 📫 How to reach me : talk to me
-- 😄 Pronouns: He/him/bulldozer méchanique
+- 😄 Pronouns: He/him/...
 - ⚡ Fun fact: I'm stupid
 
 <!---
