@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Programation
 - 💞️ I’m looking to collaborate on fun projects 
 - 📫 How to reach me : talk to me
-- 😄 Pronouns: He/him/...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm silly and stupid and kinda shy
 
 <!---
